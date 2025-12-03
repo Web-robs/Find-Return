@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209344477890",
+    "project_id": "lostfound-genie",
+    "storage_bucket": "lostfound-genie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209344477890:android:309ffe6f070da58693195b",
+        "android_client_info": {
+          "package_name": "com.shruti.lofo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsJrjgBmu1CJPdkyjuI_5NRxX-jWNiuxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
